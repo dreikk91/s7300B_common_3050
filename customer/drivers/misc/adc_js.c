@@ -1001,6 +1001,6 @@ static void __exit adc_exit(void)
 module_init(adc_init);
 module_exit(adc_exit);
 
-MODULE_AUTHOR("Samty/JXD/Skelton/softwin");
+MODULE_AUTHOR("LegacyROM");
 MODULE_DESCRIPTION("ADC Joystick Driver");
 MODULE_LICENSE("GPL");
